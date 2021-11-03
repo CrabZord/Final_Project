@@ -6,7 +6,7 @@ Making Tetris with python or using Unity
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-I'm doing this myself
+I'm doing this alone
 
 ## Do you have any questions of your own?
 
